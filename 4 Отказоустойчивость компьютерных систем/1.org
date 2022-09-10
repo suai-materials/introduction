@@ -1,0 +1,19 @@
+* Отказоустойчевость компьютерных систем
+
+Наработка на отказ - время в течение которого, наш элемент или система 
+будет работать без поломок, без отказов
+
+HDD - срок действие механики
+
+Существует несколько варинтов повышение надежности:
+
+- аппаратурный -> аппаратурная ибыточность(излишки):
+  1. Все операции паралельны на всех одинаковых компонентах -> все операции сравниваются между собой,
+     что позволяет выявить ошибки
+- программный
+
+[[https://mermaid.ink/img/pako:eNpdkEFqAjEUQK8S_loX6m4WLkRPYFcaF8F864CTDDGzEBGsxZWFgiewN5hFpaXt9Aw_N_Ib0RYXIe_By4efJYytRkjg0al8Kh660gghesajG9I-bOmX3qkKOzoKhpKqi4xEvd4Wjb84evPOW9EbkTtDeqPP8BQ2dKQfKgV98ewqbMKa7-_wOopx8xJHbv3jTmQ68OOP8Mz9Cw8qz0caqEGGLlOp5j2W51yCn2KGEhJGjRNVzLwEaVacFrlWHns69dZBMlGzOdZAFd72F2YMiXcFXqNuqvhbsluVKzOw9uqrE88wfyQ]]
+
+Тровированная можеритарная система контроля -> Тем больше одинаковых - то и верно
+
+Если все ответы разные -> то нет верного ответа --> ERROR
