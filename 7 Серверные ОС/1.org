@@ -1,0 +1,10 @@
+* Серверные ОС
+
+=ШИНДОВС = ПОМОЙКА= 
+
+** Различия между помойками
+
+1. Foundation - сервера самого низкого уровня - =дешёвая= помойка.(=Майки уже прикрыли лавочку=)
+2. Essentials - Small Business Server (SBS) =cringe= AD DC (Active directory donut controller), DNS-server, File service, IIS, RDP
+3. Standard CAL, 4TB, Hyper-V
+4. Datacenter - ОС аналогичная стандард, но ней можно запускать неограниченное количество Windows Server.
